@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zainabohlic/TextUtils.git/static/css/main.abd64e84.css",
+    "main.js": "/Zainabohlic/TextUtils.git/static/js/main.f606e80b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Zainabohlic/TextUtils.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Zainabohlic/TextUtils.git/index.html",
+    "main.abd64e84.css.map": "/Zainabohlic/TextUtils.git/static/css/main.abd64e84.css.map",
+    "main.f606e80b.js.map": "/Zainabohlic/TextUtils.git/static/js/main.f606e80b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Zainabohlic/TextUtils.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f606e80b.js"
+  ]
+}
